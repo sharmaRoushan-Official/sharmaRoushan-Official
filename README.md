@@ -19,13 +19,15 @@
 <p align="left">
 </p>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sharmaRoushan-Official?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,css,django,flask,git,html,js,mongodb,mysql,nodejs,postgres,postman,py,react,tensorflow,vue" />
 </p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sharmaRoushan-Official?cardType=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaroushan-official&show_icons=true&locale=en" alt="sharmaroushan-official" /></p>
 
